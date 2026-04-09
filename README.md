@@ -28,16 +28,16 @@ Facilitar el aprendizaje de conceptos de **seguridad web** mediante una experien
 
 El proyecto cubre las siguientes áreas:
 
-1.- Broken Access Control (Control de acceso roto)
-2.- Security Misconfiguration (Mala configuración de la seguridad)
-3.- Software Supply Chain Failures (Fallos en la cadena de suministro de software)
-4.- Cryptographic Failures (Fallos criptográficos) 
-5.- Injection (Inyección (SQL))
-6.- Insecure Design (Diseño inseguro)
-7.- Authentication Failures (Fallos en la autenticación)
-8.- Software and Data Integrity Failures (Fallos en la integridad del software y datos)
-9.- Logging and Alerting Failures (Fallos en el registroy las alertas de seguridad)
-10.- Mishandling of Exceptional Conditions (Gestión inadecuada decondiciones excepcionales)
+* 1.- Broken Access Control (Control de acceso roto)
+* 2.- Security Misconfiguration (Mala configuración de la seguridad)
+* 3.- Software Supply Chain Failures (Fallos en la cadena de suministro de software)
+* 4.- Cryptographic Failures (Fallos criptográficos) 
+* 5.- Injection (Inyección (SQL))
+* 6.- Insecure Design (Diseño inseguro)
+* 7.- Authentication Failures (Fallos en la autenticación)
+* 8.- Software and Data Integrity Failures (Fallos en la integridad del software y datos)
+* 9.- Logging and Alerting Failures (Fallos en el registroy las alertas de seguridad)
+* 10.- Mishandling of Exceptional Conditions (Gestión inadecuada decondiciones excepcionales)
 
 ---
 
