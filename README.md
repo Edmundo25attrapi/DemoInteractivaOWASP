@@ -58,7 +58,6 @@ El proyecto cubre las siguientes áreas:
 ## 🛠️ Tecnologías utilizadas
 
 * HTML5
-* CSS
 
 ---
 
